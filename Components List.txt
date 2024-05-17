@@ -1,0 +1,13 @@
+*Components required*
+1.ESP8266 Development Board (e.g., NodeMCU)
+2.LCD Display with I2C Interface
+3.MAX30102 Pulse Oximeter and Heart-Rate Sensor
+4.Temperature Sensor (DS18B20)
+4.Ultrasonic Motion Sensor 
+5.BO Motors
+6.Motor Driver Module (e.g., L298N)
+7.Resistors and Capacitors
+8.Jumper Wires
+9.Power Supply(12v rechargeable battery)
+10.Breadboard (Optional)
+11.Enclosure 
